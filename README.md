@@ -1,11 +1,15 @@
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/radix-ai/poetry-cookiecutter) [![Open in GitHub Codespaces](https://img.shields.io/static/v1?label=GitHub%20Codespaces&message=Open&color=blue&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=444870763)
 
-NOTE: This cookiecutter is one I have modified to facilitate ml projects. It incorporates a default folder structure optimized for ml-ops. 
-- incorporates modified MLOps File structure
-
 # Pia's Poetry Cookiecutter for MLOps
 
-A modern [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template for scaffolding Python packages and apps.
+### Todos
+
+- [ ] incorporate modified MLOps File structure
+- [ ] add documentation generation
+- [ ] add GCP support
+- [ ] add DVC support
+- [ ] add Terraform support
+- [ ] add updated file tree ascii illustration
 
 ## 🍿 Demo
 
@@ -29,11 +33,6 @@ Starting development in My Package can be done with a single click by [opening M
 - 🧪 Test coverage with [Coverage.py](https://github.com/nedbat/coveragepy)
 - 🏗 Scaffolding updates with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and [Cruft](https://github.com/cruft/cruft)
 - 🧰 Dependency updates with [Dependabot](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/about-dependabot-version-updates)
-
-To Add
-- documentation configs
-- file structure
-- gcp support 
 
 ## ✨ Using
 
