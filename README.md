@@ -11,6 +11,25 @@
 - [ ] add Terraform support
 - [ ] add updated file tree ascii illustration
 
+### Resources and Inspiration
+
+** ML and Data Engineering **
+
+- [Secure Production ML Engineering Project Base](https://github.com/EthicalML/sml-security)
+- [Cookiecutter MLOps] - https://github.com/Chim-SO/cookiecutter-mlops - Thoughtful ML file structure
+- [Cookiecutter template] for MLOps Project based on the MLOps Guide: https://github.com/mlops-guide/mlops-template - includes dvc integration + infrastructure-as-code terraform
+- [Minimal ML Cookiecutter Project Structure] https://github.com/jeannefukumaru/cookiecutter-ml
+- [AI Singapore's Cookiecutter Template for End-to-end ML Projects] https://github.com/aisingapore/ml-project-cookiecutter-gcp-runai
+- [A cookiecutter template to create Docker environment for ML/DL tasks] https://github.com/kazuhirokomoda/cookiecutter-docker-jupyterlab
+- [This project is an opinionated template for ML projects which creates package skeletons] https://github.com/project-delphi/cookiecutter-ml-template
+- https://github.com/Yann21/cookiecutter-exp-launcher
+
+** Python Best Practices **
+- https://github.com/cjolowicz/cookiecutter-hypermodern-python
+- https://github.com/sourcery-ai/python-best-practices-cookiecutter
+
+### Notes
+- use cruft to install packages and update them
 ## 🍿 Demo
 
 See [My Package](https://github.com/radix-ai/my-package) for an example of a Python package and app that is scaffolded with this template.
